@@ -4,7 +4,7 @@ This project will look to cluster athletes into groups based on their historical
 
 The initial dataset used is The Longitudinal Athlete Sports Performance Dataset available from Kaggle.
 
-# To-Do
+### To-Do
 
 * Engineer athlete profile summary features
 * Dimensionality reduction to visualise the relationships in the data
